@@ -30,3 +30,5 @@ https://afonso247.github.io/Meu-Joguinho-de-Luta/
 - Não há um efeito visual distintivo de Kenji ao sofrer um ataque.
 
 - Não há uma animação de morte apropriada para quando a Saúde de um Jogador for zerada. Quando um Jogador "morre", ele irá ficar parado, enquanto o outro Jogador pode se mover livremente pelo cenário.
+
+- Quando a partida é finalizada por tempo, ambos os Jogadores ainda podem se mover e atacar. Isso significa que os Jogadores ainda podem derrotar seus oponentes e garantir a vitória mesmo com Tempo esgotado.

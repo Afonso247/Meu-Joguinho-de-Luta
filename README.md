@@ -23,6 +23,8 @@ https://afonso247.github.io/Meu-Joguinho-de-Luta/
 
 1.0.0 - Versão inicial do protótipo
 
+1.0.1 - Corrigido um bug em que ao finalizar uma partida por Tempo, ambos os Jogadores ainda poderiam se atacar, significando a possibilidade dos Jogadores poderem derrotar seus oponentes e garantir a vitória mesmo com Tempo esgotado.
+
 # Bugs conhecidos
 
 - Quando a Saúde do Jogador Dois é zerada, caso o tempo do jogo ainda esteja presente, a partida não é finalizada, e ambos os jogadores continuarão se movendo. Somente quando o Jogador Dois, com a Saúde zerada e o tempo ainda presente, atingir o Jogador Um que a partida é finalizada.
@@ -30,5 +32,3 @@ https://afonso247.github.io/Meu-Joguinho-de-Luta/
 - Não há um efeito visual distintivo de Kenji(Jogador Dois) ao sofrer um ataque.
 
 - Não há uma animação de morte apropriada para quando a Saúde de um Jogador for zerada. Quando um Jogador "morre", ele irá ficar parado, enquanto o outro Jogador pode se mover livremente pelo cenário.
-
-- Quando a partida é finalizada por Tempo, ambos os Jogadores ainda podem se mover e atacar. Isso significa que os Jogadores ainda podem derrotar seus oponentes e garantir a vitória mesmo com Tempo esgotado.

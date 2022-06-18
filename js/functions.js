@@ -14,6 +14,8 @@ function endgame({ player, enemy, timerId }) {
     document.querySelector('#mostrar-resultado').style.display = 'flex'
 
         if (player.health === enemy.health) {
+            player.attackValidation = false;
+            enemy.attackValidation = false;
             document.querySelector('#mostrar-resultado').innerText = 'Empate'
         } else if (player.health > enemy.health) {
             document.querySelector('#mostrar-resultado').innerText = 'Jogador 1 venceu!'
@@ -23,7 +25,7 @@ function endgame({ player, enemy, timerId }) {
 }
 
 // temporizador
-let timer = 100
+let timer = 10
 let timerId
 function decreaseTimer() {
 

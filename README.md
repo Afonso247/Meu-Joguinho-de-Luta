@@ -23,7 +23,7 @@ https://afonso247.github.io/Meu-Joguinho-de-Luta/
 
 1.0.0 - Versão inicial do protótipo
 
-1.0.1 - Corrigido um bug em que ao finalizar uma partida por Tempo, ambos os Jogadores ainda poderiam se atacar, significando a possibilidade dos Jogadores poderem derrotar seus oponentes e garantir a vitória mesmo com Tempo esgotado.
+1.0.1 - Corrigido um bug em que ao finalizar uma partida por Tempo, ambos os Jogadores ainda poderiam se atacar, significando a possibilidade de ainda poder derrotar o oponente e garantir a vitória mesmo com Tempo esgotado.
 
 # Bugs conhecidos
 

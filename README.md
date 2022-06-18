@@ -9,7 +9,7 @@ Cada jogador possui sua própria distinção: o Jogador Um controla Samurai Mack
 
 Querido usuário,
 
-tenha em mente que este é um protótipo de um jogo, feito por um porgramador na qual as habilidades de programação ainda estão em desenvolvimento. Isto significa que, ao entrar e jogar este projeto, você irá muito provavelmente encontrar bugs. Quando houver a possibilidade, estes bugs serão corrigidos com o passar do tempo.
+tenha em mente que este é um protótipo de um jogo, feito por um programador na qual as habilidades de programação ainda estão em desenvolvimento. Isto significa que, ao entrar e jogar este projeto, você irá muito provavelmente encontrar bugs. Quando houver a possibilidade, estes bugs serão corrigidos com o passar do tempo.
 
 Adicionalmente, o protótipo foi designado para funcionar somente em computadores Desktop, portanto será injogável para dispositivos móveis.
 

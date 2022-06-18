@@ -2,6 +2,7 @@
 Este é um protótipo de um jogo de luta, criado por minha autoria, seguindo um tutorial do youtube para a realização do projeto. (Link: https://www.youtube.com/watch?v=vyqbNFMDRGQ)
 
 Dois jogadores são posicionados em um cenário em canvas para que possam batalhar até a morte. Cada um possui o seu próprio sistema de movimentação - O Jogador Um se move utilizando das teclas W,A e D, enquanto o Jogador dois se move com as teclas de setinha. 
+
 Cada jogador possui sua própria distinção: o Jogador Um controla Samurai Mack, um samurai que desfere ataques fortes e carregados em sua espada, enquanto no outro lado o Jogador Dois controla Kenji, um lutador ágil que libera ataques rápidos e ferozes contra o seu oponente. Ambos os lutadores devem se enfrentar até que um caia perante o chão.
 
 # Um aviso antes de jogar

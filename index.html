@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joguinho de Luta</title>
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,800&family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+</body>
+</html>
+
+<body>
+    <div class="main-content">
+        <div class="secondary-content">
+            <!-- Vida do Jogador Um -->
+            <div style="position: relative; height: 30px; width: 100%;">
+                <div class="vida-jogador-um"></div>
+                <div id="playerHealth" class="vida-perdida-jogador-um"></div>
+            </div>
+            <!-- Timer -->
+            <div id="temporizador" class="timer">99</div>
+            <!-- Vida do Jogador Dois -->
+            <div style="position: relative; height: 30px; width: 100%;">
+                <div class="vida-jogador-dois"></div>
+                <div id="enemyHealth" class="vida-perdida-jogador-dois"></div>
+            </div>
+        </div>
+        <div id="mostrar-resultado" class="resultado">Jogador 1 venceu!</div>
+        <canvas></canvas>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js" integrity="sha512-VEBjfxWUOyzl0bAwh4gdLEaQyDYPvLrZql3pw1ifgb6fhEvZl9iDDehwHZ+dsMzA0Jfww8Xt7COSZuJ/slxc4Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="js/classes.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

@@ -27,7 +27,7 @@ https://afonso247.github.io/Meu-Joguinho-de-Luta/
 
 - Quando a Saúde do Jogador Dois é zerada, caso o tempo do jogo ainda esteja presente, a partida não é finalizada, e ambos os jogadores continuarão se movendo. Somente quando o Jogador Dois, com a Saúde zerada e o tempo ainda presente, atingir o Jogador Um que a partida é finalizada.
 
-- Não há um efeito visual distintivo de Kenji ao sofrer um ataque.
+- Não há um efeito visual distintivo de Kenji(Jogador Dois) ao sofrer um ataque.
 
 - Não há uma animação de morte apropriada para quando a Saúde de um Jogador for zerada. Quando um Jogador "morre", ele irá ficar parado, enquanto o outro Jogador pode se mover livremente pelo cenário.
 

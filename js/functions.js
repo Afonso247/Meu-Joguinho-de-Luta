@@ -25,7 +25,7 @@ function endgame({ player, enemy, timerId }) {
 }
 
 // temporizador
-let timer = 10
+let timer = 100
 let timerId
 function decreaseTimer() {
 

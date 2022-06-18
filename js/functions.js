@@ -11,11 +11,11 @@ function rectCollision({ rect1, rect2 }) {
 // Finalização do jogo
 function endgame({ player, enemy, timerId }) {
     clearTimeout(timerId);
+    player.attackValidation = false;
+    enemy.attackValidation = false;
     document.querySelector('#mostrar-resultado').style.display = 'flex'
 
         if (player.health === enemy.health) {
-            player.attackValidation = false;
-            enemy.attackValidation = false;
             document.querySelector('#mostrar-resultado').innerText = 'Empate'
         } else if (player.health > enemy.health) {
             document.querySelector('#mostrar-resultado').innerText = 'Jogador 1 venceu!'

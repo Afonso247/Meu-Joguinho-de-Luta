@@ -1,5 +1,5 @@
 # Meu-Joguinho-de-Luta
-Este é um protótipo de um jogo de luta, criado por minha autoria, seguindo um tutorial do youtube para a realização do projeto. (Link: https://www.youtube.com/watch?v=vyqbNFMDRGQ)
+Este é um protótipo de um jogo de luta, criado por minha autoria, seguindo um tutorial do youtube para a realização do projeto. (Link:https://www.youtube.com/watch?v=vyqbNFMDRGQ)
 
 Dois jogadores são posicionados em um cenário em canvas para que possam batalhar até a morte. Cada um possui o seu próprio sistema de movimentação - O Jogador Um se move utilizando das teclas W,A e D, enquanto o Jogador dois se move com as teclas de setinha. 
 
